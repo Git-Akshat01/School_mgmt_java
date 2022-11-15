@@ -30,6 +30,9 @@ Fetching All Data ![Fetching All Data](https://github.com/Git-Akshat01/School_mg
 - [@AKSHAT TIWARI](https://github.com/Git-Akshat01)
 
 
+
+## Run Locally
+
 Clone the project
 
 ```bash
@@ -52,10 +55,12 @@ Start the server
 
 ```bash
   npm run start
+```
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Tech Stack
 
