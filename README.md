@@ -1,1 +1,88 @@
-# School_mgmt_java
+# School Result Management Application
+
+
+Now a days as the technology has up scaled so there is a new era of managing and handling all the records in a system present in a local drive rather than the traditional way of managing records and data.
+
+
+So this project is dedicated to simple but most important concepts implementation of Core Java and the concepts of Advance Java.
+
+
+In this project we perform the simple but most useful CRUD operations that are useful in the any Application.
+
+
+We use Oracle DB for Database and Java for the Backend and Make GUI using the NetBeans IDE.
+
+
+We used NetBeans IDE for GUI because it is user-friendly & has various kinds of features which is easy to use for a developer.
+## Screenshots
+
+![Login Menu](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Login.png)
+![Main Menu](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/MainMenu.png)
+![Main Page](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/MainPage.png)
+![Fetching Data](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Insertion.png)
+![Insertion Operation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Inserted.png)
+![Updation Operation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Updation.png)
+![Fetching All Data](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/LoadResult.png)
+
+
+## Authors
+
+- [@AKSHAT TIWARI](https://github.com/Git-Akshat01)
+## Documentation
+
+[Documentation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/dist/javadoc/index.html)## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Git-Akshat01/School_mgmt_java
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Tech Stack
+
+**Backend:** JAVA
+
+**Databases:** Oracle, Mysql
+
+**IDE:** Netbeans
+
+**Libraries:** Ojdbc5.jar, Ojdbc6.jar, Ojdbc6_g.jar, JDK 1.8, mysql-connector-java-8.0.2
+# ðŸ’»Technology Used
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+## ðŸš€ About Me
+I'm a full stack developer...
+
+## Support
+
+For support, Email tiwariakshatat2001@gmail.com or Connect on 
+## ðŸŒSocials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat.tiwari.7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshat-tiwari-18a5a2192) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshattiwari0901) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AkshatT42615638)  
