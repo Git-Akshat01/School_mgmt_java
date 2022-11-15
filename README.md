@@ -16,13 +16,13 @@ We use Oracle DB for Database and Java for the Backend and Make GUI using the Ne
 We used NetBeans IDE for GUI because it is user-friendly & has various kinds of features which is easy to use for a developer.
 ## Screenshots
 
-![Login Menu](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Login.png)
-![Main Menu](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/MainMenu.png)
-![Main Page](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/MainPage.png)
-![Fetching Data](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Insertion.png)
-![Insertion Operation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Inserted.png)
-![Updation Operation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Updation.png)
-![Fetching All Data](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/LoadResult.png)
+Login Menu ![Login Menu](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Login.png)
+Main Menu ![Main Menu](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/MainMenu.png)
+Main Page ![Main Page](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/MainPage.png)
+Fetching Data ![Fetching Data](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Insertion.png)
+Insertion Operation ![Insertion Operation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Inserted.png)
+Updation Operation ![Updation Operation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/Updation.png)
+Fetching All Data ![Fetching All Data](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/Screenshots/LoadResult.png)
 
 
 ## Authors
