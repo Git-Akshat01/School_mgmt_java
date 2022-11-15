@@ -78,8 +78,16 @@ Start the server
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-## ðŸš€ About Me
-I'm a full stack developer...
+
+# 💫About Me :
+### Hello! I am Akshat Tiwari
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Java Development and Web Development.
+🤔 I’m looking for help with Exploring New Technologies.
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - tiwariakshatat2001@gmail.com
+😄 Pronouns: He/His
+⚡ Fun fact: My favourite song is Infinity by Jaymes Young.
 
 ## Support
 
@@ -89,3 +97,7 @@ For support, Email tiwariakshatat2001@gmail.com or Connect on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshat-tiwari-18a5a2192) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshattiwari0901) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AkshatT42615638)  
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Git-Akshat01&icon=0&color=0)](https://visitcount.itsvg.in)
