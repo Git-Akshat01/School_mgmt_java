@@ -71,7 +71,7 @@ Start the server
 **IDE:** Netbeans
 
 **Libraries:** Ojdbc5.jar, Ojdbc6.jar, Ojdbc6_g.jar, JDK 1.8, mysql-connector-java-8.0.2
-# ðŸ’»Technology Used
+# 💻Technology Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -99,5 +99,5 @@ For support, Email tiwariakshatat2001@gmail.com or Connect on
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AkshatT42615638)  
 
 
-
+---
 [![](https://visitcount.itsvg.in/api?id=Git-Akshat01&icon=0&color=0)](https://visitcount.itsvg.in)
