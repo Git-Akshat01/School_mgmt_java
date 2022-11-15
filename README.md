@@ -84,7 +84,7 @@ I'm a full stack developer...
 ## Support
 
 For support, Email tiwariakshatat2001@gmail.com or Connect on 
-## ðŸŒSocials
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat.tiwari.7) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshat-tiwari-18a5a2192) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshattiwari0901) 
