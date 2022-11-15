@@ -28,9 +28,7 @@ Fetching All Data ![Fetching All Data](https://github.com/Git-Akshat01/School_mg
 ## Authors
 
 - [@AKSHAT TIWARI](https://github.com/Git-Akshat01)
-## Documentation
 
-[Documentation](https://github.com/Git-Akshat01/School_mgmt_java/blob/main/dist/javadoc/index.html)## Run Locally
 
 Clone the project
 
